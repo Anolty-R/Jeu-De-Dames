@@ -23,7 +23,8 @@ Bienvenue dans ce projet de **jeu de dames jouable en console**, intégrant un p
    ```
 3. Compilez et exécutez le jeu :
    ```sh
-   javac main.java
+   javac src/Lanceur.java
+   java src/Lanceur
    ```
 
 ## 🌟 Comment jouer ?
