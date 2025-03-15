@@ -23,9 +23,7 @@ Bienvenue dans ce projet de **jeu de dames jouable en console**, intégrant un p
    ```
 3. Compilez et exécutez le jeu :
    ```sh
-   python main.py  # Si écrit en Python
-   # Ou
-   g++ main.cpp -o dames && ./dames  # Si écrit en C++
+   javac main.java
    ```
 
 ## 🌟 Comment jouer ?
