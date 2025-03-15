@@ -15,11 +15,11 @@ Bienvenue dans ce projet de **jeu de dames jouable en console**, intégrant un p
 
 1. Clonez ce dépôt :
    ```sh
-   git clone https://github.com/votre-utilisateur/nom-du-repo.git
+   git clone https://github.com/anolty-r/Jeu-De-Dames.git
    ```
 2. Accédez au dossier du projet :
    ```sh
-   cd nom-du-repo
+   cd Jeu-De-Dames
    ```
 3. Compilez et exécutez le jeu :
    ```sh
